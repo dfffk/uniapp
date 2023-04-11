@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fbf3e7;
+      }
+
+      .cls-2 {
+        fill: #edcc89;
+        stroke: #efca83;
+        stroke-width: 0.5px;
+        font-size: 14px;
+        font-family: PingFangSC-Medium, PingFang SC;
+        letter-spacing: 0.2em;
+        font-weight: 500;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #eeca85;
+        stroke-linecap: round;
+        stroke-width: 1.5px;
+      }
+    </style>
+  </defs>
+  <g id="ad" transform="translate(-23 -763)">
+    <circle id="椭圆_46" data-name="椭圆 46" class="cls-1" cx="22.5" cy="22.5" r="22.5" transform="translate(23 763)"/>
+    <text id="AD-2" data-name="AD" class="cls-2" transform="translate(35 791)"><tspan x="0" y="0">AD</tspan></text>
+    <line id="直线_45" data-name="直线 45" class="cls-3" x2="27" y2="18" transform="translate(32 777)"/>
+  </g>
+</svg>

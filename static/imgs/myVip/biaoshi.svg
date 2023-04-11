@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fbf3e7;
+      }
+
+      .cls-2 {
+        isolation: isolate;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        fill: #fbf0ce;
+        stroke: #fbf0ce;
+        font-size: 13px;
+        font-family: PingFangSC-Medium, PingFang SC;
+        letter-spacing: 0.2em;
+        font-weight: 500;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fcc886"/>
+      <stop offset="1" stop-color="#fee9c3"/>
+    </linearGradient>
+  </defs>
+  <g id="biaoshi" transform="translate(-23 -848)">
+    <circle id="椭圆_46" data-name="椭圆 46" class="cls-1" cx="22.5" cy="22.5" r="22.5" transform="translate(23 848)"/>
+    <g id="组_505" data-name="组 505" class="cls-2" transform="translate(30 858)">
+      <path id="路径_1261" data-name="路径 1261" class="cls-3" d="M241.093,578.553" transform="translate(-241.093 -573.522)"/>
+      <path id="路径_1262" data-name="路径 1262" class="cls-3" d="M241.093,582.4l4.935,18.383a.824.824,0,0,0,.8.612h20.008a.828.828,0,0,0,.8-.608L272.745,582l-6.9,4.952a.819.819,0,0,1-1.127-.162l-7.134-9.1a.825.825,0,0,0-1.31.013l-6.909,9.219a.818.818,0,0,1-1.11.191Z" transform="translate(-241.093 -577.37)"/>
+    </g>
+    <text id="V" class="cls-4" transform="translate(41.5 877.5)"><tspan x="0" y="0">V</tspan></text>
+  </g>
+</svg>

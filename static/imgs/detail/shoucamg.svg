@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12" height="12" viewBox="0 0 12 12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #949494;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #aaa;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_418" data-name="矩形 418" class="cls-1" width="12" height="12" transform="translate(159 785)"/>
+    </clipPath>
+  </defs>
+  <g id="shoucamg" class="cls-2" transform="translate(-159 -785)">
+    <path id="路径_1312" data-name="路径 1312" class="cls-3" d="M7.127,27.1a.74.74,0,0,1-.313-.082L4.671,25.946l-2.16,1.072a.657.657,0,0,1-.692-.049.681.681,0,0,1-.264-.659L2,24,.3,22.418a.725.725,0,0,1-.181-.692.657.657,0,0,1,.544-.462l2.358-.429,1.055-2.143a.672.672,0,0,1,.593-.379.654.654,0,0,1,.593.379L6.32,20.836l2.358.412a.636.636,0,0,1,.528.462.672.672,0,0,1-.165.692L7.342,24l.429,2.308a.668.668,0,0,1-.264.659.588.588,0,0,1-.379.132Z" transform="translate(159.904 767.687)"/>
+  </g>
+</svg>

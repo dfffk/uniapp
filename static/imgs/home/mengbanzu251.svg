@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: #da7b36;
+        stroke: #da7b36;
+        stroke-linecap: round;
+      }
+
+      .cls-3 {
+        stroke-linejoin: round;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5 {
+        stroke-width: 1.306px;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="路径_1318" data-name="路径 1318" class="cls-1" d="M0,0H22V22H0Z" transform="translate(-45 857)"/>
+    </clipPath>
+  </defs>
+  <g id="mengbanzu251" class="cls-2" transform="translate(45 -857)">
+    <g id="组_33" data-name="组 33" transform="translate(-4)">
+      <path id="路径_160" data-name="路径 160" class="cls-3" d="M204.583,704.327l-7.831-7.847-7.831,7.847" transform="translate(-227.076 163.748)"/>
+      <path id="路径_161" data-name="路径 161" class="cls-4" d="M189.67,700.89v9.455H203.1v-9.41" transform="translate(-226.688 166.031)"/>
+      <path id="路径_212" data-name="路径 212" class="cls-5" d="M0,0V4.441" transform="translate(-30.309 871.656)"/>
+    </g>
+  </g>
+</svg>

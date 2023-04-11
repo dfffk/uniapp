@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="13" height="13" viewBox="0 0 13 13">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #ee8131;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_11" data-name="矩形 11" class="cls-1" width="13" height="13" transform="translate(120 57)"/>
+    </clipPath>
+  </defs>
+  <g id="mengbanzu_2" data-name="mengbanzu 2" class="cls-2" transform="translate(-120 -57)">
+    <path id="路径_1" data-name="路径 1" class="cls-3" d="M196.1,205.787a3.89,3.89,0,1,0-3.89-3.89A3.811,3.811,0,0,0,196.1,205.787Zm3.8-.8,2.055,1.927a.47.47,0,0,1,.039.649.5.5,0,0,1-.67.019l-2.1-1.907A4.734,4.734,0,0,1,196.1,206.8a4.9,4.9,0,1,1,3.788-1.789Z" transform="translate(-70.155 -138.7)"/>
+  </g>
+</svg>

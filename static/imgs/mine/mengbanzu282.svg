@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10" height="10" viewBox="0 0 10 10">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #5a5a5a;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_500" data-name="矩形 500" class="cls-1" width="10" height="10" transform="translate(208 530)"/>
+    </clipPath>
+  </defs>
+  <g id="mengbanzu_282" data-name="mengbanzu 282" class="cls-2" transform="translate(-208 -530)">
+    <path id="路径_1293" data-name="路径 1293" class="cls-3" d="M31.836,36.016a3.672,3.672,0,1,1,3.672-3.668A3.675,3.675,0,0,1,31.836,36.016Zm0-.432a3.24,3.24,0,1,0-3.24-3.24A3.24,3.24,0,0,0,31.836,35.584Zm.043-2.552c.638-.634.844-.832,1.482-1.466a.236.236,0,0,1,.366.3c-.012.016-.027.027-.039.043-.7.692-.961.949-1.657,1.641a.241.241,0,0,1-.381,0c-.7-.7-.969-.957-1.669-1.649a.235.235,0,0,1,.21-.408.222.222,0,0,1,.086.043.467.467,0,0,1,.047.043c.634.63.836.829,1.47,1.455a.577.577,0,0,1,.043.058.577.577,0,0,1,.043-.058Z" transform="translate(180.75 501.984)"/>
+  </g>
+</svg>

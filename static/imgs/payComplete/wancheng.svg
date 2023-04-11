@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        stroke: #fff;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_644" data-name="矩形 644" class="cls-1" width="48" height="48" transform="translate(164 94)"/>
+    </clipPath>
+  </defs>
+  <g id="wancheng" class="cls-2" transform="translate(-164 -94)">
+    <path id="路径_1317" data-name="路径 1317" class="cls-3" d="M21.428,40.714A19.286,19.286,0,1,0,2.143,21.428,19.286,19.286,0,0,0,21.428,40.714Zm0,2.143A21.428,21.428,0,1,1,42.857,21.428,21.428,21.428,0,0,1,21.428,42.857ZM34.821,10.341l.579.706a1.135,1.135,0,0,0-1.607,0L16.571,28.357l-6.561-6.786a1.23,1.23,0,0,0-1.684,0A1.152,1.152,0,0,0,8.4,23.182l7.376,7.611a1.144,1.144,0,0,0,1.609-.008.974.974,0,0,0,.106-.127l17.918-18a1.14,1.14,0,0,0,0-1.611Z" transform="translate(167 96.523)"/>
+  </g>
+</svg>

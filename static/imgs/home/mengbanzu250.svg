@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="110" viewBox="0 0 375 110">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        fill: #ee8131;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-3);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_458" data-name="矩形 458" class="cls-1" width="375" height="110" transform="translate(-129 2284)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.697" y1="0.618" x2="0.902" y2="0.772" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ee7b2d"/>
+      <stop offset="1" stop-color="#f7911c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.35" y1="0.655" x2="0.839" y2="0.236" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ee7a2f"/>
+      <stop offset="1" stop-color="#f7911c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.581" y1="0.885" x2="0.099" y2="0.251" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f09a37"/>
+      <stop offset="1" stop-color="#f09837"/>
+    </linearGradient>
+  </defs>
+  <g id="mengbanzu250" class="cls-2" transform="translate(129 -2284)">
+    <g id="组_586" data-name="组 586">
+      <rect id="矩形_2" data-name="矩形 2" class="cls-3" width="375" height="110" transform="translate(-129 2284)"/>
+      <rect id="矩形_16" data-name="矩形 16" class="cls-4" width="375" height="110" transform="translate(-129 2284)"/>
+      <ellipse id="椭圆_5" data-name="椭圆 5" class="cls-5" cx="82.5" cy="68" rx="82.5" ry="68" transform="translate(-138 2320)"/>
+      <ellipse id="椭圆_3" data-name="椭圆 3" class="cls-6" cx="82.5" cy="68" rx="82.5" ry="68" transform="translate(117 2213)"/>
+    </g>
+  </g>
+</svg>

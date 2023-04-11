@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="79" height="28" viewBox="0 0 79 28">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #e64044;
+        stroke: #e64044;
+        stroke-miterlimit: 10;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_560" data-name="矩形 560" class="cls-1" width="79" height="28" transform="translate(13 442)"/>
+    </clipPath>
+  </defs>
+  <g id="zhangjia" class="cls-2" transform="translate(-13 -442)">
+    <path id="路径_1263" data-name="路径 1263" class="cls-3" d="M267.1,421.108H212.032c-3.194,0-5.78-1.446-5.78-3.233V405.448c0-1.783,2.586-3.23,5.78-3.23h61.941c3.888,0,6.669,2.107,5.516,4.185l-6.869,12.428C271.868,420.184,269.632,421.108,267.1,421.108Z" transform="translate(-191.752 47.782)"/>
+  </g>
+</svg>

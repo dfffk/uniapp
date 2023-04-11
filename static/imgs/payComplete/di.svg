@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="312" viewBox="0 0 375 312">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_447" data-name="矩形 447" class="cls-1" width="375" height="312"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.481" y1="0.754" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffae25"/>
+      <stop offset="1" stop-color="#ff8e1d"/>
+    </linearGradient>
+  </defs>
+  <g id="di" class="cls-2">
+    <ellipse id="椭圆_50" data-name="椭圆 50" class="cls-3" cx="431.5" cy="397" rx="431.5" ry="397" transform="translate(-244 -482)"/>
+  </g>
+</svg>

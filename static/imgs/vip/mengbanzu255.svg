@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4, .cls-5 {
+        fill: #686868;
+      }
+
+      .cls-4 {
+        stroke: rgba(0,0,0,0);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <circle id="椭圆_54" data-name="椭圆 54" class="cls-1" cx="10" cy="10" r="10" transform="translate(177 260)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e5b293"/>
+      <stop offset="1" stop-color="#f5dcc3"/>
+    </linearGradient>
+  </defs>
+  <g id="mengbanzu_255" data-name="mengbanzu 255" class="cls-2" transform="translate(-177 -260)">
+    <g id="组_479" data-name="组 479" transform="translate(178 261.136)">
+      <ellipse id="椭圆_28" data-name="椭圆 28" class="cls-3" cx="9.378" cy="9.39" rx="9.378" ry="9.39"/>
+      <g id="组_432" data-name="组 432" transform="translate(0.987 0.987)">
+        <path id="路径_1165" data-name="路径 1165" class="cls-4" d="M7.8,15.993a8.21,8.21,0,1,1,5.782-2.42A8.067,8.067,0,0,1,7.8,15.993ZM7.8.38A7.5,7.5,0,0,0,2.543,2.54,7.429,7.429,0,0,0,7.8,15.212a7.5,7.5,0,0,0,5.261-2.16A7.429,7.429,0,0,0,7.8.38Z" transform="translate(0.407 0.407)"/>
+        <path id="路径_1166" data-name="路径 1166" class="cls-5" d="M152.251,162.109l11-10.98.552.552L152.8,162.661Z" transform="translate(-149.805 -148.701)"/>
+        <path id="路径_1167" data-name="路径 1167" class="cls-5" d="M160.2,338.988h-1.276l-.495-1.3h-2.318l-.469,1.3h-1.224l2.266-5.782H157.9Zm-2.136-2.292-.807-2.136-.781,2.136Zm2.761-3.49h2.136a3.951,3.951,0,0,1,1.094.1,2.067,2.067,0,0,1,.86.521,2.782,2.782,0,0,1,.547.938,4.221,4.221,0,0,1,.182,1.38,3.463,3.463,0,0,1-.182,1.224,2.491,2.491,0,0,1-.625,1.016,2.122,2.122,0,0,1-.833.469,3.632,3.632,0,0,1-1.042.13h-2.188v-5.782Zm1.172.99v3.829h.86a3.821,3.821,0,0,0,.7-.052,1.321,1.321,0,0,0,.469-.234,1.083,1.083,0,0,0,.313-.547,3.835,3.835,0,0,0,.13-1.068,3.634,3.634,0,0,0-.13-1.042,1.4,1.4,0,0,0-.339-.573.837.837,0,0,0-.547-.26,6.815,6.815,0,0,0-.964-.052Z" transform="translate(-151.932 -327.868)"/>
+      </g>
+    </g>
+  </g>
+</svg>

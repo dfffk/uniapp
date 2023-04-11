@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46" height="21" viewBox="0 0 46 21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_554" data-name="矩形 554" class="cls-1" width="46" height="21" transform="translate(16 441)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fdf0c6"/>
+      <stop offset="1" stop-color="#fbdda7"/>
+    </linearGradient>
+  </defs>
+  <g id="gongxi" class="cls-2" transform="translate(-16 -441)">
+    <path id="路径_1255" data-name="路径 1255" class="cls-3" d="M241.391,461.281H207.282a2.631,2.631,0,0,1-2.555-3.252l3.34-13.685a2.632,2.632,0,0,1,2.555-2H244.73a2.629,2.629,0,0,1,2.551,3.252l-3.34,13.685A2.631,2.631,0,0,1,241.391,461.281Z" transform="translate(-188.651 -0.078)"/>
+  </g>
+</svg>
